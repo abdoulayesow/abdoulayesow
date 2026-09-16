@@ -34,7 +34,7 @@
 - 🚀 **Founder Mentality (0→1 Execution):** Founded Improve So and Friasoft. Built **Pulse** from a loose problem to a live B2B SaaS subscription product with 5 paying clients.
 - 🛠️ **Build Agents, Not Just Specs:** I don't stop at PRDs. I prototype and deploy hands-on using **Claude Code, the Anthropic SDK, and Model Context Protocol (MCP) servers**.
 - 🏢 **Enterprise Global Scale:** AI Delivery & Platform Lead across a global footprint of **40,000+ retail locations**, shipping 5 production AI agents on Atlassian MCP servers and cutting manual testing by 70%.
-- 🧠 **On-Metal Local AI & Privacy:** Architect of air-gapped local AI stacks using **Ollama and NVIDIA RTX GPUs** for zero-leakage data governance.
+- 🧠 **On-Metal Local AI & Hardware:** Architect of high-performance local AI and VLM stacks on **NVIDIA GeForce RTX 5080 (16GB) and RTX 3060 GPUs** using Ollama for air-gapped privacy and cross-continental edge compute.
 - 🔬 **Published ML Researcher:** Author of [*Machine Translation for Nko: Tools, Corpora and Baseline Results*](https://arxiv.org/abs/2310.15612) (arXiv:2310.15612), advancing NLP for low-resource West African languages.
 
 ---
